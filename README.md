@@ -1,3 +1,3 @@
 # Hello-world
-This is my new bracnch
-I am looking forward learning more.
+This is my first repository.
+I am looking forward to learning more.
